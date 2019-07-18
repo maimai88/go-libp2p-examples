@@ -7,6 +7,8 @@
 
 In this folder, you can find a variety of examples to help you get started in using go-libp2p. Every example as a specific purpose and some of each incorporate a full tutorial that you can follow through, helping you expand your knowledge about libp2p and p2p networks in general.
 
+在此文件夹中，您可以找到各种示例来帮助您开始使用go-libp2p。 每个示例作为特定目的，其中一些包含您可以遵循的完整教程，帮助您扩展您对libp2p和p2p网络的了解。
+
 Let us know if you find any issue or if you want to contribute and add a new tutorial, feel welcome to submit a pr, thank you!
 
 ## Examples and Tutorials
